@@ -280,6 +280,10 @@ a{
         
     }
 
+    .hidden{
+        display: none;
+    }
+
 }
 
 @media only screen and (min-width: 320px){
