@@ -196,15 +196,13 @@ a{
     font-size: 19px;
 }
 
-/* @media screen and (max-width: 1380px)
+@media screen and (min-width: 1380px)
 {
-    .box{
-        height: 40px;
-        margin: auto;
-        display: block;
-    }
+   .hidden1{
+       display:none;
+   }
     
-} */
+}
 
 @media screen and (max-width:1380px){
     .boxes{
