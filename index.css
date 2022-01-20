@@ -196,7 +196,7 @@ a{
     font-size: 19px;
 }
 
-@media screen and (min-width: 1380px)
+@media screen and (min-width: 880px)
 {
    .hidden1{
        display:none;
@@ -204,7 +204,7 @@ a{
     
 }
 
-@media screen and (max-width:1380px){
+@media screen and (max-width:880px){
     .boxes{
         display: inline-flex;
         flex-direction: column;
