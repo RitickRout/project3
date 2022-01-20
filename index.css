@@ -198,13 +198,13 @@ a{
 
 @media screen and (min-width: 880px)
 {
-   .hidden1{
-       display:none;
-   }
-    
+    .hidden1{
+        display:none;
+    }
+ 
 }
 
-@media screen and (max-width:880px){
+@media screen and (max-width:480px){
     .boxes{
         display: inline-flex;
         flex-direction: column;
